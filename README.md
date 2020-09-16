@@ -1,0 +1,1 @@
+# solve_foundation_static_aws
